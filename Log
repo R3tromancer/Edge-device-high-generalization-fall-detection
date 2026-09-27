@@ -10,3 +10,6 @@ Processed the UR Fall Dataset with method used for Le2i (NO coordiante normaliza
 + 70% valid body joints for a frame). The results were better than the Sep16 experiment - 87% accuracy - but the model still isnt 
 reaching its full potentil of learning and overfits. In training it reaches 96% of accuracy.
 So I tried
+
+
+I Have tried augmentation and mirroring with decent contributions to generalization
